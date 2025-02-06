@@ -99,8 +99,6 @@ function playpauseTrack(){
     isPlaying ? pauseTrack() : playTrack();
 }
 function playTrack(){
-    let curr_track = new Audio('music/tu.mp3');
-    let curr_track = new Audio('music/bonita.mp3');
     curr_track.play();
     isPlaying = true;
     track_art.classList.add('rotate');
