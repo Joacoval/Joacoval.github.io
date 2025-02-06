@@ -25,7 +25,7 @@ const music_list = [
         img : 'images/bonita.jfif',
         name : 'Bonita',
         artist : 'Andres Cabas',
-        music : 'bonita.mp3'
+        music src="https://github.com/Joacoval/bonita/blob/main/Bonita.mp3"
     },
 ];
 
