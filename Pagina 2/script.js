@@ -23,8 +23,8 @@ let updateTimer;
 const music_list = [
     {
         img : 'images/bonita.jfif',
-        name : 'Bonita',
-        artist : 'Andres Cabas',
+        name : 'Home (Cover)',
+        artist : 'Jed and the Valentine',
         music : 'Pagina2/Bonita.mp3'
     },
 ];
