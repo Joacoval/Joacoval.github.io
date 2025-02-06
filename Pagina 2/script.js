@@ -22,12 +22,6 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/tu.jpg',
-        name : 'Tú',
-        artist : 'maye',
-        music : 'music/tu.mp3'
-    },
-    {
         img : 'images/bonita.jfif',
         name : 'Bonita',
         artist : 'Andres Cabas',
