@@ -25,13 +25,13 @@ const music_list = [
         img : 'images/tu.jpg',
         name : 'Tú',
         artist : 'maye',
-        music : 'tu.mp3'
+        music : 'music/tu.mp3'
     },
     {
         img : 'images/bonita.jfif',
         name : 'Bonita',
         artist : 'Andres Cabas',
-        music : 'bonita.mp3'
+        music : 'music/bonita.mp3'
     },
 ];
 
