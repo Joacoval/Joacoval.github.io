@@ -25,7 +25,7 @@ const music_list = [
         img : 'images/tu.jpg',
         name : 'Tú',
         artist : 'maye',
-        music : 'music/tu.mp3'
+        music : 'https://www.youtube.com/watch?v=jhQ4WVJwz7w'
     },
     {
         img : 'images/bonita.jfif',
