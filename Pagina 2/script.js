@@ -22,10 +22,10 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/home.jfif',
-        name : 'Home (Cover)',
-        artist : 'Jed and the Valentine',
-        music : 'Home.mp3'
+        img : 'images/Reik.jfif',
+        name : 'Que Vida La Mia',
+        artist : 'Reik',
+        music : 'musica.mp3'
     },
 ];
 
